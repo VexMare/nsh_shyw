@@ -1,5 +1,6 @@
 # 自动点击程序使用说明
-
+如果你是不懂代码的新手 你应该去这个页面下载
+[releases](https://github.com/VexMare/nsh_shyw/releases)
 ## 文件说明
 
 - `auto_clicker_ctypes.exe` - 主程序（自动点击器）
